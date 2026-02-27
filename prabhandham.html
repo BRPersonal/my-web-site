@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ஆழவர்களின் அருளிச்செயல்</title>
+</head>
+<body>
+    <p><h1><span style="color: #6257bd;">Mudhalayiram</span></h1></p>
+    <audio id="playlist" controls autoplay></audio>
+    <p id="track-info">Track 1 of 17</p>
+
+    <script>
+      const tracks = [];
+      for (let i = 1; i <= 17; i++) {
+        tracks.push('music/mudhalayiram/' + String(i).padStart(2, '0') + '.mp3');
+      }
+      const audio = document.getElementById('playlist');
+      const trackInfo = document.getElementById('track-info');
+      let currentIndex = 0;
+
+      function playTrack(index) {
+        currentIndex = index;
+        audio.src = tracks[index];
+        audio.load();
+        audio.play();
+        trackInfo.textContent = 'Track ' + (index + 1) + ' of 17';
+      }
+
+      audio.addEventListener('ended', function() {
+        if (currentIndex < 16) {
+          playTrack(currentIndex + 1);
+        }
+      });
+
+      playTrack(0);
+    </script>
+
+    
+
+</body>
+</html>
