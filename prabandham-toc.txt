@@ -1,5 +1,5 @@
-mudhalayiram
-------------
+முதலாயிரம்
+---------
 01 p  MUDALAYIRAM [thiruppallandu,periyazhvar  1.1 to 1.4]
 02 p  MUDALAYIRAM [periyazhvar  1.5 to 2.1]
 03 p  MUDALAYIRAM [periyazhvar  2.2 to 2.6]
@@ -17,3 +17,69 @@ mudhalayiram
 15 p  MUDALAYIRAM [thiruchchandaviruttham  [63 to 120]]
 16 p  MUDALAYIRAM [thirumalai]
 17 p  MUDALAYIRAM [thiruppalliyezhuchchi,amalanadhipiran,kanninunnsirutthambu]
+
+பெரிய திருமொழி (18 to 37)
+--------------
+01 PERIYA THIRUMOZHI [1.1 to1.5]
+02 PERIYA THIRUMOZHI [1.6 to 2.1]
+03 PERIYA THIRUMOZHI [2.2 to 2.6]
+04 PERIYA THIRUMOZHI [2.7 to 3.1]
+05 PERIYA THIRUMOZHI [3.2 to 3.6]
+06 PERIYA THIRUMOZHI [3.7 to 4.1]
+07 PERIYA THIRUMOZHI [4.2 to 4.6]
+08 PERIYA THIRUMOZHI [4.7 to 5.2]
+09 PERIYA THIRUMOZHI [5.3 to 5.7]
+10 PERIYA THIRUMOZHI [5.8 to 6.3]
+11 PERIYA THIRUMOZHI [6.4 to 6.9]
+12 PERIYA THIRUMOZHI [6.10 to 7.5]
+13 PERIYA THIRUMOZHI [7.6 to 7.10]
+14 PERIYA THIRUMOZHI [8.1 to 8.7]
+15 PERIYA THIRUMOZHI [8.8 to 9.3]
+16 PERIYA THIRUMOZHI [9.4 to 9.9]
+17 PERIYA THIRUMOZHI [9.10 to 10.5]
+18 PERIYA THIRUMOZHI [10.6 to 11.2]
+19 PERIYA THIRUMOZHI [11.3 to 11.8]
+20 thirukkurunhandakam,thirunedunthandakam
+
+திருவாய்மொழி
+------------
+01 THIRUVOIMOZHI (thiruppallandu,kanninunnsiruttambu,1.1 to 1.4)
+02 THIRUVOIMOZHI {1.5 to 2.2}
+03 THIRUVOIMOZHI {2.2 to 2.8}
+04 THIRUVOIMOZHI {2.9 to3.5}
+05 THIRUVOIMOZHI {3.6 to 4.2}
+06 THIRUVOIMOZHI {4.3 to 4.8}
+07 THIRUVOIMOZHI {4.9 to 5.4}
+08 THIRUVOIMOZHI {5.5 to 5.9}
+09 THIRUVOIMOZHI {5.10 to 6.5}
+10 THIRUVOIMOZHI {6.6 to 7.1}
+11 THIRUVOIMOZHI {7.2 to 7.7}
+12 THIRUVOIMOZHI {7.8 to 8.3}
+13 THIRUVOIMOZHI {8.4 to 8.9}
+14 THIRUVOIMOZHI {8.10 to 9.6}
+15 THIRUVOIMOZHI {9.7 to 10.3}
+16 THIRUVOIMOZHI {10.4 to 10.10 ,  kanninunnsiruttambu}
+
+இயற்பா
+------
+01 IYARPA [mudal thiruvandadhi]
+02 IYARPA [irandam thiruvandadhi]
+03 IYARPA [moondram thiruvandadhi]
+04 IYARPA [naanmukan thiruvandadhi]
+05 IYARPA [thiruviruttham 1 to 50]
+06 IYARPA [thiruviruttham 51 to 100]
+07 IYARPA [ thiruvaasiriyam ]
+08 IYARPA [ periya thiruvandadhi ]
+09 IYARPA [ thiruvezhukkootrirukkai ]
+10 IYARPA [ siriya thirumadal ]
+11 IYARPA [ periya thirumadal ]
+12 upadesa ratthinamaalai
+13 thiruvoimozhi nootrandhadi
+14 vaazhi thirunamam
+
+slokas
+------
+01 ASHTASLOKI
+02 Ramanuja nootrandhai
+03 YATHIRAAJA VIMSATI
+
