@@ -19,8 +19,13 @@
       const STORAGE_KEY = 'prabandham-last-track';
 
       function getSectionTitle(trackNum) {
-        if (trackNum >= 1 && trackNum <= 17) return 'முதலாயிரம்';
-        if (trackNum >= 18 && trackNum <= 37) return 'பெரிய திருமொழி';
+        if (trackNum >= 1 && trackNum <= 9) return 'பெரியாழ்வார் திருமொழி';
+        if (trackNum >= 10 && trackNum <= 11) return 'நாச்சியார் திருமொழி';
+        if (trackNum >= 12 && trackNum <= 13) return 'பெருமாள் திருமொழி';
+        if (trackNum >= 14 && trackNum <= 15) return 'திருச்சந்தவிருத்தம்';
+        if (trackNum >= 16 && trackNum <= 17) return 'முதலாயிரம்';
+        if (trackNum >= 18 && trackNum <= 36) return 'பெரிய திருமொழி';
+        if (trackNum == 37) return 'திருக்குறுந்தாண்டகம் , திருநெடுந்தாண்டகம் ';
         if (trackNum >= 38 && trackNum <= 53) return 'திருவாய்மொழி';
         if (trackNum >= 54 && trackNum <= 67) return 'இயற்பா';
         if (trackNum >= 68 && trackNum <= 70) return 'slokas';

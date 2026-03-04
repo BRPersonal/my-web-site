@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Web Site</title>
+    <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
     <p><h1><span style="color: #6257bd;">Hello Krishna</span></h1></p>
@@ -70,6 +71,32 @@
     </dl>
     <hr>
 
+    <table>
+      <tr>
+        <th>Sunday</th>
+        <th>Monday</th>
+        <th>Wednesday</th>
+        <th>Friday</th>
+      </tr>
+      <tr>
+        <td>Closed</td>
+        <td>Open 9-5</td>
+        <td>Open 9-5</td>
+        <td>Open 9-5</td>
+      </tr>
+
+    </table>
+    <hr>
+    
+    <button onclick="doSomeThing()">Take me to Google</button> 
+    <p id="greeting">Hello</p>
+
+    <script>
+      function doSomeThing() {
+        console.log("Hare Krishna");
+        document.getElementById("greeting").innerHTML = "GoodBye";
+      }
+    </script>
 
 </body>
 </html>
